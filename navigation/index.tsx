@@ -67,7 +67,7 @@ function RootNavigator() {
               }}
             >
               <Octicons name="search" size={22} color={"white"} />
-              <MaterialCommunityIcons name="dots-vertical" size={22} />
+              <MaterialCommunityIcons name="dots-vertical" size={22} color={"white"} />
             </View>
           ),
         }}
